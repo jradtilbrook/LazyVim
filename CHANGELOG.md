@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.1](https://github.com/LazyVim/LazyVim/compare/v1.19.0...v1.19.1) (2023-03-16)
+
+
+### Bug Fixes
+
+* **icons:** replace obsolete icons ([#441](https://github.com/LazyVim/LazyVim/issues/441)) ([cec000d](https://github.com/LazyVim/LazyVim/commit/cec000dfd863bd681a5195eb71c0797f5d030062))
+
 ## [1.19.0](https://github.com/LazyVim/LazyVim/compare/v1.18.2...v1.19.0) (2023-03-14)
 
 
